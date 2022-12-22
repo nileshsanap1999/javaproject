@@ -1,0 +1,5 @@
+Welcome to My Profile
+java is simple language.
+java is Robust language.
+java is object-oriented language.
+java is paltform independent.
