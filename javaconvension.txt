@@ -4,6 +4,13 @@ java is Robust language.
 java is object-oriented language.
 java is paltform independent.
 
+=Four Pillars of Opps.
+-Abstraction.
+-Encapsulation.
+-Polymorphism.
+-Inheritance.
+
+------Done
 
 
 
@@ -11,3 +18,4 @@ java is paltform independent.
 
 thank u.....
   Final........
+
