@@ -10,6 +10,7 @@ java is paltform independent.
 -Polymorphism.
 -Inheritance.
 
+------Done
 
 
-thank u.....
+
